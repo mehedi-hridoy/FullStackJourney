@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.colors {
+    display: flex;
+    justify-content: center;
+    
+    gap: 20px;
+    
+}
+.button {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+
+}
+
+#grey {
+    background-color: gray;
+}
+#purple {
+    background-color: purple;
+}
+#mint{
+    background-color: #3EB489;
+}
+#rose {
+    background-color: #FF007F;
+}
